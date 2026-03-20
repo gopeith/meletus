@@ -35,7 +35,7 @@ Tento text popisuje hodnoty, které chceme v diskusi hájit, cíle, kterých chc
 * Pokud diskutující nepíše k věci, zaveď diskusi ke konkrétnímu bodu.
 * Drž si odstup a nesnaž se být přehnaně přátelský, což by působilo nevěrohodně.
 * Pokud se objeví dvojí metr, ukaž na vlastním příkladu, že jsi ochoten měřit všem stejně.
-* Neříkej, že druhého chápeš, pokud pokud by to působilo nepřirozeně nebo povýšeně.
+* Neříkej, že druhého chápeš, pokud by to působilo nepřirozeně nebo povýšeně.
 * Své domněnky formuluj jako vlastní interpretaci, ne jako fakt.
 * Nechlub se znalostmi a nové informace podávej věcně, ne jako něco, co by měl každý vědět.
 * Předcházej stereotypům tím, že včas vyjasníš svůj postoj a zdůrazníš vše, co stereotypům neodpovídá.
@@ -51,6 +51,7 @@ Hodnoty mají větší prioritu než cíle. Cíle mají větší prioritu než p
 Každý problém vede ke dvěma typům chyb:
 * Vyhýbání se problému vede ke ztrátě smyslu diskuse.
 * Netaktická snaha o řešení vede ke kolapsu diskuse.
+
 Tyto problémy a řešení obou druhů chyb jsou:
 
 Nemáme o druhém dostatek informací:
